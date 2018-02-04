@@ -3,5 +3,5 @@
     <string name="app_name">Terjeta de Cumpleanos</string>
     <string name="donut">Donut se vuelve loco</string>
     <string name="but">...pero</string>
-    <string name="happy">Feliz Cumpleanos!</string>
+    <string name="happy">Feliz \nCumpleanos!</string>
 </resources>

@@ -3,5 +3,5 @@
     <string name="app_name">Carte D\'anniversaire</string>
     <string name="donut">Donut devenir fou!</string>
     <string name="but">...bout</string>
-    <string name="happy">Bon Anniversaire!</string>
+    <string name="happy">Bon \nAnniversaire!</string>
 </resources>

@@ -3,5 +3,5 @@
     <dimen name="pad">10dp</dimen>
     <dimen name="text1">46sp</dimen>
     <dimen name="text2">36sp</dimen>
-    <dimen name="text3">80sp</dimen>
+    <dimen name="text3">70sp</dimen>
 </resources>

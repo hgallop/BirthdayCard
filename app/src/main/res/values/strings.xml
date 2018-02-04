@@ -2,5 +2,5 @@
     <string name="app_name">BirthdayCard</string>
     <string name="donut">Donut go nuts!</string>
     <string name="but">...but</string>
-    <string name="happy">Happy Birthday!</string>
+    <string name="happy">Happy \nBirthday!</string>
 </resources>
