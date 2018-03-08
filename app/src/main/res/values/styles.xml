@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
 
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
@@ -8,4 +8,18 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="TextStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/pad</item>
+        <item name="android:textColor">@color/darkteal</item>
+    </style>
+
+    <style name="TextStyle.Casual">
+        <item name="android:fontFamily" tools:targetApi="16">casual</item>
+    </style>
+
+    <style name="TextStyle.Cursive">
+        <item name="android:fontFamily" tools:targetApi="16">cursive</item>
+    </style>
 </resources>

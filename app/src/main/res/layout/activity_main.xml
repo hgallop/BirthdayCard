@@ -15,34 +15,22 @@
 
     <TextView
         android:id="@+id/donut"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:padding="@dimen/pad"
-        android:fontFamily="casual"
-        android:textColor="@color/darkteal"
+        style="@style/TextStyle.Casual"
         android:textSize="@dimen/text1"
         android:text="@string/donut" />
 
     <TextView
         android:id="@+id/but"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        style="@style/TextStyle.Casual"
         android:layout_above="@id/happy"
-        android:padding="@dimen/pad"
-        android:fontFamily="casual"
-        android:textColor="@color/darkteal"
         android:textSize="@dimen/text2"
         android:textStyle="italic"
         android:text="@string/but" />
 
     <TextView
         android:id="@+id/happy"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        style="@style/TextStyle.Cursive"
         android:layout_alignParentBottom="true"
-        android:padding="@dimen/pad"
-        android:fontFamily="cursive"
-        android:textColor="@color/darkteal"
         android:textSize="@dimen/text3"
         android:text="@string/happy" />
 
